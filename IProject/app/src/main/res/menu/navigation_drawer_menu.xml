@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="হোম পেইজ"
+        android:id="@+id/nav_item_home"
+        android:icon="@drawable/home"/>
+    <item android:title="বিভাগ সমুহ"
+        android:id="@+id/nav_item_bookmark"
+        android:icon="@drawable/bookmark"/>
+    <item android:title="নতুন পেইজ"
+        android:id="@+id/nav_item_newp"
+        android:icon="@drawable/pagevew"/>
+    <item android:title="আরো...">
+        <menu>
+            <item
+                android:title="Backups"
+                android:icon="@drawable/backup"/>
+            <item
+                android:title="স্টোর"
+                android:icon="@drawable/store"/>
+        </menu>
+    </item>
+    <group android:id="@+id/group_settings_id">
+        <item android:title="নোটিফিকেশন"
+            android:icon="@drawable/messages"/>
+        <item android:title="Help"
+            android:icon="@drawable/help"/>
+    </group>
+    <group android:id="@+id/about_setting_id">
+        <item android:title="About"
+            android:icon="@drawable/messages"/>
+    </group>
+</menu>

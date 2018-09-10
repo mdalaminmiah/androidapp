@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">জরুরী ফোন কল</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Dhaka">ঢাকা বিভাগ</string>
+    <string name="Rangpur">রংপুর বিভাগ</string>
+    <string name="Rajshahi">রাজশাহী বিভাগ</string>
+    <string name="Chittagong">চট্টগ্রাম বিভাগ</string>
+    <string name="Khulna">খুলনা বিভাগ</string>
+    <string name="Barishal">বরিশাল বিভাগ</string>
+    <string name="Sylhet">সিলেট বিভাগ</string>
+    <string name="Mymensingh">ময়মনসিংহ বিভাগ</string>
+
+
+</resources>
